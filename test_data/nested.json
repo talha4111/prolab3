@@ -1,0 +1,30 @@
+[
+  {
+    "ogrenci_id": 1,
+    "ad": "Ali",
+    "soyad": "Yılmaz",
+    "adres": {
+      "sehir": "Kocaeli",
+      "ilce": "İzmit",
+      "posta_kodu": 41000
+    },
+    "iletisim": {
+      "telefon": "05551234567",
+      "email": "ali@example.com"
+    }
+  },
+  {
+    "ogrenci_id": 2,
+    "ad": "Ayşe",
+    "soyad": "Kaya",
+    "adres": {
+      "sehir": "İstanbul",
+      "ilce": "Kadıköy",
+      "posta_kodu": 34710
+    },
+    "iletisim": {
+      "telefon": "05559876543",
+      "email": "ayse@example.com"
+    }
+  }
+]

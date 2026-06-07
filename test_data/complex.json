@@ -1,0 +1,41 @@
+[
+  {
+    "ogrenci_id": 1,
+    "ad": "Ali",
+    "soyad": "Yılmaz",
+    "adres": {
+      "sehir": "Kocaeli",
+      "ilce": "İzmit"
+    },
+    "dersler": [
+      {
+        "ders_adi": "Veri Tabanı",
+        "kredi": 4,
+        "hoca": "Prof. Dr. Ahmet Yıldız"
+      },
+      {
+        "ders_adi": "Algoritma",
+        "kredi": 3,
+        "hoca": "Doç. Dr. Fatma Şen"
+      }
+    ],
+    "hobiler": ["futbol", "satranç", "kodlama"]
+  },
+  {
+    "ogrenci_id": 2,
+    "ad": "Ayşe",
+    "soyad": "Kaya",
+    "adres": {
+      "sehir": "İstanbul",
+      "ilce": "Beşiktaş"
+    },
+    "dersler": [
+      {
+        "ders_adi": "Yapay Zeka",
+        "kredi": 4,
+        "hoca": "Prof. Dr. Can Özkan"
+      }
+    ],
+    "hobiler": ["yüzme", "resim"]
+  }
+]

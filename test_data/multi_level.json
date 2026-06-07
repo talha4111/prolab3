@@ -1,0 +1,96 @@
+{
+  "universite": "Kocaeli Üniversitesi",
+  "kuruluş_yili": 1992,
+  "adres": {
+    "sehir": "Kocaeli",
+    "ilce": "İzmit",
+    "mahalle": {
+      "ad": "Umuttepe",
+      "posta_kodu": 41001
+    }
+  },
+  "fakulteler": [
+    {
+      "ad": "Mühendislik Fakültesi",
+      "dekan": "Prof. Dr. Hasan Kaya",
+      "bolumler": [
+        {
+          "ad": "Bilgisayar Mühendisliği",
+          "kontenjan": 80,
+          "ogretim_uyeleri": [
+            {
+              "unvan": "Prof. Dr.",
+              "ad": "Ahmet Yıldız",
+              "uzmanlik": "Yapay Zeka"
+            },
+            {
+              "unvan": "Doç. Dr.",
+              "ad": "Fatma Şen",
+              "uzmanlik": "Veri Tabanı"
+            }
+          ],
+          "dersler": ["Algoritma", "Veri Yapıları", "İşletim Sistemleri"]
+        },
+        {
+          "ad": "Elektrik Mühendisliği",
+          "kontenjan": 60,
+          "ogretim_uyeleri": [
+            {
+              "unvan": "Prof. Dr.",
+              "ad": "Mehmet Demir",
+              "uzmanlik": "Güç Sistemleri"
+            }
+          ],
+          "dersler": ["Devre Analizi", "Elektromagnetik"]
+        }
+      ]
+    },
+    {
+      "ad": "Fen Edebiyat Fakültesi",
+      "dekan": "Prof. Dr. Zeynep Arslan",
+      "bolumler": [
+        {
+          "ad": "Matematik",
+          "kontenjan": 50,
+          "ogretim_uyeleri": [
+            {
+              "unvan": "Dr. Öğr. Üyesi",
+              "ad": "Selin Korkmaz",
+              "uzmanlik": "Analiz"
+            }
+          ],
+          "dersler": ["Lineer Cebir", "Diferansiyel Denklemler"]
+        }
+      ]
+    }
+  ],
+  "ogrenci_klupleri": [
+    {
+      "ad": "Yazılım Kulübü",
+      "uye_sayisi": 150,
+      "etkinlikler": [
+        {
+          "ad": "Hackathon 2025",
+          "tarih": "2025-03-15",
+          "katilimci": 80
+        },
+        {
+          "ad": "Workshop: Python",
+          "tarih": "2025-04-20",
+          "katilimci": 45
+        }
+      ]
+    },
+    {
+      "ad": "Robotik Kulübü",
+      "uye_sayisi": 75,
+      "etkinlikler": [
+        {
+          "ad": "Robot Yarışması",
+          "tarih": "2025-05-10",
+          "katilimci": 30
+        }
+      ]
+    }
+  ]
+}

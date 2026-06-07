@@ -1,0 +1,26 @@
+[
+  {
+    "ogrenci_id": 1,
+    "ad": "Ali",
+    "soyad": "Yılmaz",
+    "yas": 21,
+    "aktif": true,
+    "ortalama": 3.45
+  },
+  {
+    "ogrenci_id": 2,
+    "ad": "Ayşe",
+    "soyad": "Kaya",
+    "yas": 22,
+    "aktif": true,
+    "ortalama": 3.78
+  },
+  {
+    "ogrenci_id": 3,
+    "ad": "Mehmet",
+    "soyad": "Demir",
+    "yas": 20,
+    "aktif": false,
+    "ortalama": 2.90
+  }
+]
